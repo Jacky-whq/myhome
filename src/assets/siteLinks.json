@@ -1,5 +1,10 @@
 [
   {
+    "icon": "Compass",
+    "name": "起始页",
+    "link": "https://nav.jackywhq.cn/"
+  },
+  {
     "icon": "Cloud",
     "name": "ChatGPT",
     "link": "https://ai.jackywhq.cn/"
@@ -13,5 +18,10 @@
     "icon": "Fire",
     "name": "今日热榜",
     "link": "https://hot.jackywhq.cn/"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "站点监测",
+    "link": "https://status.jackywhq.cn/"
   }
 ]
